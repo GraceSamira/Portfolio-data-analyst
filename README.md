@@ -19,7 +19,7 @@ Prédiction de la probabilité de défaut sur **150 000 emprunteurs** (dataset G
 | Régression logistique | 0,814 | 0,627 | 0,495 |
 | Random Forest | **0,854** | **0,708** | **0,552** |
 
-Gestion du déséquilibre de classes (6,68 % de défauts), validation stratifiée, **explicabilité via SHAP values** — les principaux facteurs de risque identifiés sont le taux d'utilisation du crédit renouvelable et les retards de paiement passés.
+Gestion du déséquilibre de classes (6,68 % de défauts), validation stratifiée, **explicabilité via SHAP values** - les principaux facteurs de risque identifiés sont le taux d'utilisation du crédit renouvelable et les retards de paiement passés.
 
 **Stack :** Python · Pandas · Scikit-learn · SHAP · Matplotlib
 
